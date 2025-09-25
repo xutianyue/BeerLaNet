@@ -71,10 +71,12 @@ Cell Classification dataset developed by Johns Hopkins University, containing *P
 ## Implementation
 
 ### Demo
-For a demo to the stain separation effect of BeerLaNet, check out the BeerLaNet_demo.ipynb on Google Colab [here]()
-【To be finished】
-### Train with custom datasets and tasks
-To be finished
+For a demo to the stain separation effect of BeerLaNet, check out the `demo.ipynb` on Google Colab [here](https://colab.research.google.com/github/xutianyue/BeerLaNet/blob/main/demo/demo.ipynb).
+### Join training with custom datasets and tasks
+[To be finished]
+
+.....
+
 ## Cite
 
 If you find our work useful to your research, please cite it as:
