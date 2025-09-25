@@ -14,7 +14,7 @@ This repository contains the official implementation of **BeerLaNet**, our MICCA
 - **Adaptive Stain separation**: Generalizes to arbitrary staining protocols without templates.  
 - **Physics-Informed & Trainable**: Based on **Beer-Lambert law + algorithmic unrolling of NMF**.  
 - **Plug-and-Play**: Can be integrated with any backbone (ResNet, YOLO, etc.) for downstream tasks.
-- **Robust Across Domains**: Stable and competive performance on multiple histology datasets.
+- **Robust Across Domains**: Stable and competitive performance on multiple histology datasets.
 
 ![pipeline_overview](docs/pipeline_overview.png)
 
