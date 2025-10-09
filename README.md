@@ -1,7 +1,7 @@
 # [MICCAI 2025] BeerLaNet
 
 ## Adaptive Stain Normalization for Cross-Domain Medical Histology
-
+[![Paper](https://img.shields.io/badge/Paper-arXiv%202510.06592-800000)](https://arxiv.org/abs/2510.06592)
 [![Paper](https://img.shields.io/badge/Paper-MICCAI%202025-blue)](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_3)  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/MIT)  [![Poster](https://img.shields.io/badge/Poster-PDF-orange)](./docs/MICCAI2025-Poster.pdf)  [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/spaces/yourname/BeerLaNet)  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/xutianyue/BeerLaNet/blob/main/demo/demo.ipynb)<img src="https://assurgentmedical.com/wp-content/uploads/2017/07/johns-hopkins-university-logo.png" alt="JHU Logo" width="150"/>
 
